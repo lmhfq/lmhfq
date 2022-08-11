@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNTang&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmhfq&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
 </a>
